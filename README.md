@@ -1,6 +1,6 @@
 # Project Name
 
-Project Name is a Laravel application for managing student data.
+Students Grading App is a Laravel application for managing student data.
 
 ## Table of Contents
 
